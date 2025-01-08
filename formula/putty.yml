@@ -1,0 +1,5 @@
+summary: Implementation of Telnet and SSH
+webpage: https://www.chiark.greenend.org.uk/~sgtatham/putty/
+version: 0.80
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-loongarch64/releases/download/2025.01.08/putty-0.80-linux-loongarch64.release.tar.xz
+bin-sha: 15e918f04d736ac622a5a09ecfbd667bcbf990ada19d6e998195d7073b900ef0

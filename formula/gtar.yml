@@ -1,0 +1,5 @@
+summary: GNU version of the tar archiving utility
+webpage: https://www.gnu.org/software/tar
+version: 1.35
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-loongarch64/releases/download/2025.01.08/gtar-1.35-linux-loongarch64.release.tar.xz
+bin-sha: ebb9b106a4f01c82d6a0ec6d37cf9b6411fb3937f42f9ac497c6adeaec304d16

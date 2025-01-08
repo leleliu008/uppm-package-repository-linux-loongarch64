@@ -1,0 +1,5 @@
+summary: A command-line tool to create a hex dump of a given file or standard input
+webpage: https://www.vim.org/
+version: 9.1.0200
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-loongarch64/releases/download/2025.01.08/xxd-9.1.0200-linux-loongarch64.release.tar.xz
+bin-sha: 21a07c99028c9fb2d31baa75fef6bf9632fdf1b49f0f6f6ec3d9266b0dc87557

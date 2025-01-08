@@ -1,0 +1,5 @@
+summary: Apply a diff file to an original
+webpage: https://savannah.gnu.org/projects/patch
+version: 2.7.6
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-loongarch64/releases/download/2025.01.08/patch-2.7.6-linux-loongarch64.release.tar.xz
+bin-sha: 7ec9d2b830cc7c89314a29cd48cef794293168ea8b07bf90d622685c8b13bdb0

@@ -1,0 +1,5 @@
+summary: grpc plugins
+webpage: https://grpc.io
+version: 1.64.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-loongarch64/releases/download/2025.01.08/grpc-plugins-1.64.0-linux-loongarch64.release.tar.xz
+bin-sha: 202079b2460aa0d4a715e903836a9a69e5eb24b4b6ddf2ce07fe1d23836776fe

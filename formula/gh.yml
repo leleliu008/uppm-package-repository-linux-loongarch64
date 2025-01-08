@@ -1,0 +1,5 @@
+summary: A command-line interface that brings github.com functionality to your terminal
+webpage: https://github.com/cli/cli
+version: 2.55.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-loongarch64/releases/download/2025.01.08/gh-2.55.0-linux-loongarch64.release.tar.xz
+bin-sha: dcdf1fdc238613a13d5c6dfda5922944eed8b14579e368e86cb1eb30ca9fd2ec

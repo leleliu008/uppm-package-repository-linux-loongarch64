@@ -1,0 +1,5 @@
+summary: A small build system with a focus on speed
+webpage: https://ninja-build.org/
+version: 1.11.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-loongarch64/releases/download/2025.01.08/ninja-1.11.1-linux-loongarch64.release.tar.xz
+bin-sha: fe47780de904bb15cfd56dc19bd6a9f8ed444c27c3e4871e8a0ff21cbdb01fc7

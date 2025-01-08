@@ -1,0 +1,5 @@
+summary: Distributed revision control system
+webpage: https://git-scm.com/
+version: 2.46.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-loongarch64/releases/download/2025.01.08/git-2.46.0-linux-loongarch64.release.tar.xz
+bin-sha: 984d48645506f3d7c98eb50985bcd3e4005abe2769ebba1d61225140ab31277c

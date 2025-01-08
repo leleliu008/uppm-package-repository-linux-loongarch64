@@ -1,0 +1,5 @@
+summary: Reimplementation of pkg-config
+webpage: http://pkgconf.org
+version: 2.3.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-loongarch64/releases/download/2025.01.08/pkgconf-2.3.0-linux-loongarch64.release.tar.xz
+bin-sha: 957a12c72a74fe8b508597f18761a3a2e22489214724a967fc8ea4f6a6298f54

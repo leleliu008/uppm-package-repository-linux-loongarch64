@@ -1,0 +1,5 @@
+summary: Utility for directing compilation
+webpage: https://www.gnu.org/software/make
+version: 4.4.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-loongarch64/releases/download/2025.01.08/gmake-4.4.1-linux-loongarch64.release.tar.xz
+bin-sha: 28f3e4835b84b1f5e7186f84a7ee3a21cb890ac0dace6cb935da16dda5b25576

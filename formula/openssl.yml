@@ -1,0 +1,5 @@
+summary: Cryptography and SSL/TLS Toolkit
+webpage: https://www.openssl.org/
+version: 3.3.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-loongarch64/releases/download/2025.01.08/openssl-3.3.1-linux-loongarch64.release.tar.xz
+bin-sha: 6887f45340a2857024b5538c27d9e7d0ab5865cef990c66aef84bad0bcb67c57

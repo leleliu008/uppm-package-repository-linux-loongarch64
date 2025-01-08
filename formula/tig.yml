@@ -1,0 +1,5 @@
+summary: Text interface for Git repositories
+webpage: https://jonas.github.io/tig
+version: 2.5.9
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-loongarch64/releases/download/2025.01.08/tig-2.5.9-linux-loongarch64.release.tar.xz
+bin-sha: 1cbbdd735768a7794c65f6f8a385e51740fcd497b86ebc37f44d4e4465636c28

@@ -1,0 +1,5 @@
+summary: A meta-build system that generates build files for ninja
+webpage: https://gn.googlesource.com/gn
+version: 2025.01.08
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-loongarch64/releases/download/2025.01.08/gn-2025.01.08-linux-loongarch64.release.tar.xz
+bin-sha: 52a4da6687ba0fb2138110e9b1ee4f990f820e3ea352570551e7c9b5c0e537d5

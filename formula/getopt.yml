@@ -1,0 +1,5 @@
+summary: A command-line option parsing utility
+webpage: https://github.com/util-linux/util-linux
+version: 2.40.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-loongarch64/releases/download/2025.01.08/getopt-2.40.2-linux-loongarch64.release.tar.xz
+bin-sha: aee07743d450ec0869f7427523b0e62cbf64bd9432b8b626abe5206a45a75d46

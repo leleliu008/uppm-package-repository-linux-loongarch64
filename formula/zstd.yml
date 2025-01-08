@@ -1,0 +1,5 @@
+summary: A real-time compression utility with high compression ratios
+webpage: https://facebook.github.io/zstd
+version: 1.5.6
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-loongarch64/releases/download/2025.01.08/zstd-1.5.6-linux-loongarch64.release.tar.xz
+bin-sha: ecd26e570560fecd735f6001e8cb0c6733988722cc02e4b9d3287f645826a868

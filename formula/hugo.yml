@@ -1,0 +1,5 @@
+summary: A fast and flexible static site generator
+webpage: https://gohugo.io
+version: 0.124.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-loongarch64/releases/download/2025.01.08/hugo-0.124.1-linux-loongarch64.release.tar.xz
+bin-sha: b63b7501bb309e7ec4955616969f8fce7545ab08e0d8840444535491536edd55
