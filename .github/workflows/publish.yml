@@ -8,7 +8,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        pkg: [aria2, axel, base16, base64, bash, bison, bc, bsdtar, bzip2, cmake, coreutils, cppcheck, curl, curlie, darkhttpd, diffutils, dos2unix, easyutils, ed, figlet, file, findutils, flex, fzf, gawk, getopt, gettext-tools, gh, gindent, git, glib-tools, glow, gm4, gmake, gn, gnupg, go-md2man, golang, gperf, grep, grpc-plugins, gsed, gtar, gzip, hugo, jq, lolcat, lz4, lzip, mediainfo, mpg123, nasm, ninja, openssl, patch, patchelf, pigz, p7zip, pkg-config, pkgconf, proot, putty, qpdf, qrencode, re2c, rsync, scdoc, sqlite3, strace, svn-lite, swig, sysinfo, tcpdump, tig, tmux, tree, trietool, uctags, unrar, uppm, util-linux, wget, xmake, xmlutils, xsltproc, xxd, xz, yasm, youtubedr, yq, zopfli, zstd]
+        pkg: [aria2, axel, base16, base64, bash, bison, bc, bsdtar, bzip2, cmake, coreutils, cppcheck, curl, curlie, darkhttpd, diffutils, dos2unix, easyutils, ed, figlet, file, findutils, flex, fzf, gawk, getopt, gettext-tools, gh, gindent, git, glib-tools, glow, gm4, gmake, gn, gnupg, go-md2man, golang, gperf, grep, grpc-plugins, gsed, gtar, gzip, hugo, jq, lolcat, lz4, lzip, mediainfo, mpg123, nasm, ninja, openssl, patch, patchelf, pigz, p7zip, pkg-config, pkgconf, putty, qpdf, qrencode, re2c, rsync, scdoc, sqlite3, strace, svn-lite, swig, sysinfo, tcpdump, tig, tmux, tree, trietool, uctags, unrar, uppm, util-linux, wget, xmake, xmlutils, xsltproc, xxd, xz, yasm, youtubedr, yq, zopfli, zstd]
 
     runs-on: ubuntu-latest
 
