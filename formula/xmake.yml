@@ -1,5 +1,5 @@
 summary: A cross-platform build utility based on Lua
 webpage: https://xmake.io/
 version: 2.9.4
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-loongarch64/releases/download/2025.01.08/xmake-2.9.4-linux-musl-loongarch64.release.tar.xz
-bin-sha: 3b0ee5abdd51c7d4f8453234a8e00664c197ab6a7a00ffe7bc7162ecafc85c0c
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-loongarch64/releases/download/2025.01.09/xmake-2.9.4-linux-musl-loongarch64.release.tar.xz
+bin-sha: 291c6e1069f30253e2e25724d413af00a0267f92843d388d83d0167b707819c3

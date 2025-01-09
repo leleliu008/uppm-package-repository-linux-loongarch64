@@ -1,5 +1,5 @@
 summary: A command-line tool for transferring data from/to an HTTP, HTTPS or FTP server
 webpage: https://curl.haxx.se/
 version: 8.9.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-loongarch64/releases/download/2025.01.08/curl-8.9.1-linux-loongarch64.release.tar.xz
-bin-sha: 34591b28c7a152a274f70b6af11ec86b849ce27721a4c6bdd3b93ddc4233dae9
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-loongarch64/releases/download/2025.01.09/curl-8.9.1-linux-loongarch64.release.tar.xz
+bin-sha: 34ffa4a8fd3509f455ebeba59aa4739336a484d04a3ed7645a9a2e3c9582451c

@@ -1,5 +1,5 @@
 summary: A command-line tool for generating scripting interfaces to C/C++ code
 webpage: https://www.swig.org/
 version: 4.2.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-loongarch64/releases/download/2025.01.08/swig-4.2.1-linux-loongarch64.release.tar.xz
-bin-sha: 71f0187a672e30fcd552b07e540239f35a9759466498e623ef38ca5cb0732ab9
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-loongarch64/releases/download/2025.01.09/swig-4.2.1-linux-loongarch64.release.tar.xz
+bin-sha: 6dba809e29cc33ad9d09ff47989b585022c3ec3daf03e0d93d443f4bac6b13ba

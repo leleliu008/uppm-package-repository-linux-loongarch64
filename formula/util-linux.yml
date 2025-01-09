@@ -1,5 +1,5 @@
 summary: A collection of Linux utilities
 webpage: https://github.com/util-linux/util-linux
 version: 2.39.3
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-loongarch64/releases/download/2025.01.08/util-linux-2.39.3-linux-loongarch64.release.tar.xz
-bin-sha: 2209a629f3e45fbf2c37822e8a21db77cf6e48ed16f8fb98e6510f723b3eb2fb
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-loongarch64/releases/download/2025.01.09/util-linux-2.39.3-linux-loongarch64.release.tar.xz
+bin-sha: 21913047593544f857be3f4b0d24055b06294123b097a62725056b46fc2b7cd7

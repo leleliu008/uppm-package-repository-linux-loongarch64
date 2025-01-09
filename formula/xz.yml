@@ -1,5 +1,5 @@
 summary: A free, general-purpose data compression with a high compression ratio
 webpage: https://tukaani.org/xz
 version: 5.6.3
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-loongarch64/releases/download/2025.01.08/xz-5.6.3-linux-loongarch64.release.tar.xz
-bin-sha: d615aea07e88a806cecacac03084de2ec10359bf8a45f097af63df8df14fd19b
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-loongarch64/releases/download/2025.01.09/xz-5.6.3-linux-loongarch64.release.tar.xz
+bin-sha: 7605b1250b0bf5a82a368a51838ccb989dd93681a5c54d54fa7c252799b47985

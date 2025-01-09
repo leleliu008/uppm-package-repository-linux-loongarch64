@@ -1,5 +1,5 @@
 summary: A free and open-source lexer generator for C/C++, Go and Rust with a focus on generating fast code
 webpage: https://re2c.org/
 version: 3.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-loongarch64/releases/download/2025.01.08/re2c-3.1-linux-loongarch64.release.tar.xz
-bin-sha: 9ffcf1b7b8d4d35922a3c23ab1108146eb0931fd423e1c631228ca80d6273d59
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-loongarch64/releases/download/2025.01.09/re2c-3.1-linux-loongarch64.release.tar.xz
+bin-sha: 1c37804608864c22c36b8e16e6ec34ab871a055ea69163b249c122770782b4d8

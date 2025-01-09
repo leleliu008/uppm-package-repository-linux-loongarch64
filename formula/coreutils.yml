@@ -1,5 +1,5 @@
 summary: GNU File, Shell, and Text utilities
 webpage: https://www.gnu.org/software/coreutils
 version: 9.4
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-loongarch64/releases/download/2025.01.08/coreutils-9.4-linux-musl-loongarch64.release.tar.xz
-bin-sha: 7df3b764ad41f221ba587fcd380561bdbc2d481a82be503b108801cfe8a67b8f
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-loongarch64/releases/download/2025.01.09/coreutils-9.4-linux-musl-loongarch64.release.tar.xz
+bin-sha: e9837e652dabc1f39630ed979d5d7fc2d13eda66248fccf6837562bb42eb2699

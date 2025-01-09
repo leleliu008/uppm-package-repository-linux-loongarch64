@@ -1,5 +1,5 @@
 summary: BSD tar
 webpage: https://www.libarchive.org/
 version: 3.7.4
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-loongarch64/releases/download/2025.01.08/bsdtar-3.7.4-linux-loongarch64.release.tar.xz
-bin-sha: 8efdfe7d87259d6492dfa9610cd616860ad56c4e3e0b4f67c271f0dbd36a43df
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-loongarch64/releases/download/2025.01.09/bsdtar-3.7.4-linux-loongarch64.release.tar.xz
+bin-sha: 6e8ec054c0ffc355e766e12579bfddd0e3ef81606c3d524089fb7656744857a9

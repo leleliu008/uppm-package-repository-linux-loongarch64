@@ -1,5 +1,5 @@
 summary: A command-line tool to get your currently running system information
 webpage: https://github.com/leleliu008/C-examples
-version: 2025.01.08
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-loongarch64/releases/download/2025.01.08/sysinfo-2025.01.08-linux-loongarch64.release.tar.xz
-bin-sha: eefd6c8ce2d919ce65e57669db7309ef4647bc3cbe900145ccce03dd70a9ff7c
+version: 2025.01.09
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-loongarch64/releases/download/2025.01.09/sysinfo-2025.01.09-linux-loongarch64.release.tar.xz
+bin-sha: 03a608af06a8df12485aa2e2793fa37615189e17a17c8b843e95078f0fa43893
