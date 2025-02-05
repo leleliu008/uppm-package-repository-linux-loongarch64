@@ -2,4 +2,4 @@ summary: perl runtime
 webpage: https://www.perl.org/
 version: 5.40.0
 bin-url: https://github.com/leleliu008/perl-distribution/releases/download/5.40.0/perl-5.40.0-linux-any-loongarch64.tar.xz
-bin-sha: d07c6f3663525b059a39a26df64365855f9037908fdb152f18869e27565fba24
+bin-sha: 5feefe71a8f51be85e53ee4975f430ebdec894988ab0f5f2783690f0d4e1f30a
