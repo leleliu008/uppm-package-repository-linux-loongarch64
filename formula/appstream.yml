@@ -1,0 +1,5 @@
+summary: A command-line utility to work with AppStream metadata
+webpage: https://github.com/ximion/appstream
+version: 1.0.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-loongarch64/releases/download/2025.01.09/appstream-1.0.4-linux-loongarch64.release.tar.xz
+bin-sha: 41a3ad069d3c23056c8c3cc32bc187d17cb9740460f3b34f19e1fe79b5567db0
